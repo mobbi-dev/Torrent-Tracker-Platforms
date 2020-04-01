@@ -5,9 +5,11 @@ Comprehensive List of Torrent Tracker Platforms.
 > https://mobbi-dev.github.io/Torrent-Tracker-Platforms/
 
 
-## Source and other list
+## Source
 
 Based on: [HDVinnie/Private-Trackers-Spreadsheet](https://github.com/HDVinnie/Private-Trackers-Spreadsheet)
+
+## HDVinnie's list
 
 Another Torrent Tracker Platform list: 
 
