@@ -9,7 +9,7 @@ Comprehensive List of Torrent Tracker Platforms.
 
 Based on: [HDVinnie/Private-Trackers-Spreadsheet](https://github.com/HDVinnie/Private-Trackers-Spreadsheet)
 
-## HDVinnie's list
+## <a href="https://github.com/HDVinnie">HDVinnie's</a> list
 
 Another Torrent Tracker Platform list: 
 
