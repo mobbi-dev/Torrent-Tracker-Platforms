@@ -1,6 +1,7 @@
 {
   "sources": [
     {"Name": "Chihaya", "Description": "Chihaya is an open source BitTorrent tracker written in Go. A customizable, multi-protocol BitTorrent Tracker.", "Language": "Go", "Announce only": "Yes", "Status": "Active", "Url": "https://github.com/chihaya/chihaya"},
+    {"Name": "Evil-Trinity", "Description": "Evil-Trinity source is based from unfinished and unreleased U-232 v6 code.", "Language": "PHP", "Announce only": "No", "Status": "Active", "Url": "https://github.com/3evils/Evil-Trinity"},
     {"Name": "FreeTSP", "Description": "FreeTSP (FreeTorrentSourceProject) is a PHP BitTorrent tracker based on TBDev.", "Language": "PHP", "Announce only": "No", "Status": "Active", "Url": "freetsp.com"},
     {"Name": "Gazelle", "Description": "Gazelle is a web framework geared towards private BitTorrent trackers. Although naturally focusing on music, it can be modified for most needs. Gazelle is written in PHP, JavaScript, and MySQL.", "Language": "PHP", "Announce only": "No", "Status": "Dead", "Url": "https://github.com/WhatCD/Gazelle"},
     {"Name": "Luminance", "Description": "Luminance is an attempt to structurally improve and clean up the Gazelle program code.", "Language": "PHP", "Announce only": "No", "Status": "Active", "Url": "https://github.com/Empornium/Luminance"},
